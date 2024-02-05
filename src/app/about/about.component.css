@@ -1,0 +1,9 @@
+.about{
+  background-color: #1abc9c;
+}
+.line{
+  width: 100px;
+  height: 3px;
+  background: #fff;
+  border-radius: 10px;
+}

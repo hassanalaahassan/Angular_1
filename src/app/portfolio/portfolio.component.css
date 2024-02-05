@@ -1,0 +1,35 @@
+
+
+
+.col-md-12{
+  color: #2C3E50;
+}
+.col-md-4{
+  cursor: pointer;
+  transition: all 1s;
+}
+
+.line{
+  width: 100px;
+  height: 4px;
+  background: #2C3E50;
+  border-radius: 10px;
+}
+.leyar{
+  background-color: #29B197;
+  top:100%;
+  opacity:0;
+  display: flex;
+  transition: 0.4s;
+}
+.leyar:hover {
+
+  top :0%;
+  opacity: .9;
+
+ }
+.spac-photo{
+
+  display: none;
+
+}

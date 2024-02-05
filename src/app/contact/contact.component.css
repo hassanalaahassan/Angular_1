@@ -1,0 +1,24 @@
+.line{
+  width: 100px;
+  height: 4px;
+  background: #2C3E50;
+  border-radius: 10px;
+}
+.user
+{
+  margin: 40px 0px;
+}
+label{
+
+top: -38%;
+opacity: 0;
+transition: .8s all;
+}
+
+
+.user .my-lable{
+
+  top: -90%;
+  opacity: 1;
+
+}

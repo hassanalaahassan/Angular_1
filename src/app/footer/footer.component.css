@@ -1,0 +1,15 @@
+.foot
+{
+  background-color: #2c3e50;
+  color: white;
+  text-align: center;
+}
+.icon{
+  padding: 10px;
+  border: 1px solid white;
+  border-radius: 50%;
+}
+.under-foot  {
+  background-color: #16212b;
+  padding: 30px;
+}
